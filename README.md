@@ -1,1 +1,1 @@
-# Randomizer
+# Plinko Game
